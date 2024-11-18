@@ -1,7 +1,7 @@
 ## Hello there 👋
 A Quality Assurance (QA) Specialist focused on Digital Accessibility 
 
-- ⚙️ I use: .axe, .html, .css, .js, .wcag, .aria, .a11y
+- ⚙️ I use: .axe, .js, .wcag, .aria, .a11y
 
 - 💼 Ensuring that digital products are inclusive and accessible to everyone
 
