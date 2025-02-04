@@ -32,7 +32,3 @@ Feel free to reach out to me about:
 
 ---
 
-📢 **Advocacy**  
-I actively promote web accessibility and inclusive design, aiming to create a more equitable digital landscape for everyone.
-
----
