@@ -32,3 +32,4 @@ Feel free to reach out to me about:
 
 ---
 
+![Snake animation](https://github.com/lalesca-morais-silva/lalesca-morais-silva/blob/output/github-contribution-grid-snake.svg)
